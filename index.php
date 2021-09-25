@@ -1,3 +1,3 @@
 <?
-    echo "Hi Santhosh , I am Pavan.. :)"
+    echo "Hi , I am Pavan.. :)"
 ?>
